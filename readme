@@ -1,2 +1,3 @@
 ad ni once upon a time we were 3looking at tas2r38 and it started with adni
 basically u downloaded like biomarker data and did a bunch of linear models to show if theres an association between the allele counts and the biomarkers
+idk y the padjust and pvalue thing r here theyre supposed to be in rosmap where theyre used to adjust the p if u do a whole bunch of models like in rosmap
